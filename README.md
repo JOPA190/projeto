@@ -138,7 +138,7 @@ GET /usuarios/a1b2c3d4-e5f6-7890-abcd-ef1234567890
 
 ## Desenvolvimento
 
-Este projeto foi desenvolvido como parte da disciplina **Back-End I** do Grupo Business Brasil.
+
 
 Principais pontos implementados:
 
